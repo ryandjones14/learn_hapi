@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/ryandjones14/learn_hapi#readme",
   "dependencies": {
-    "hapi": "^18.0.0"
+    "blipp": "^3.1.2",
+    "hapi": "^18.0.0",
+    "hapi-pino": "^5.2.0"
   }
 }
